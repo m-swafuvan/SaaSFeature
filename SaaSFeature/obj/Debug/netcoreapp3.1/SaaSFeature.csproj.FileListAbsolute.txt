@@ -1,0 +1,10 @@
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\bin\Debug\netcoreapp3.1\SaaSFeature.deps.json
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\bin\Debug\netcoreapp3.1\SaaSFeature.dll
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\bin\Debug\netcoreapp3.1\SaaSFeature.pdb
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.csproj.AssemblyReference.cache
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.AssemblyInfoInputs.cache
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.AssemblyInfo.cs
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.csproj.CoreCompileInputs.cache
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.dll
+D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\obj\Debug\netcoreapp3.1\SaaSFeature.pdb

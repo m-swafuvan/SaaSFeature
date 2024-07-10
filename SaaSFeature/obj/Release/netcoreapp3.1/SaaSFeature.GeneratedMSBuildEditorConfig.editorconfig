@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SaaSFeature
+build_property.ProjectDir = D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
