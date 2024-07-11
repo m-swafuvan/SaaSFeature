@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MS Workspace\\Libraries\\SaaSFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj": {}
+    "D:\\Speehive\\Workspace\\General\\MultitenancyFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj": {}
   },
   "projects": {
-    "D:\\MS Workspace\\Libraries\\SaaSFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj": {
+    "D:\\Speehive\\Workspace\\General\\MultitenancyFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MS Workspace\\Libraries\\SaaSFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj",
+        "projectUniqueName": "D:\\Speehive\\Workspace\\General\\MultitenancyFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj",
         "projectName": "SaaSFeature.ExampleAPI",
-        "projectPath": "D:\\MS Workspace\\Libraries\\SaaSFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj",
+        "projectPath": "D:\\Speehive\\Workspace\\General\\MultitenancyFeature\\SaaSFeature.ExampleAPI\\SaaSFeature.ExampleAPI.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\MS Workspace\\Libraries\\SaaSFeature\\SaaSFeature.ExampleAPI\\obj\\",
+        "outputPath": "D:\\Speehive\\Workspace\\General\\MultitenancyFeature\\SaaSFeature.ExampleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

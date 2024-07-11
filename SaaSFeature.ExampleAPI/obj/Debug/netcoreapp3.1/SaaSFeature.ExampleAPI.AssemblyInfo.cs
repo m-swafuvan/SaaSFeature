@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaaSFeature.ExampleAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622c7331a1a88ed7a1f1f3748a53945e1b772aa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaaSFeature.ExampleAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaaSFeature.ExampleAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

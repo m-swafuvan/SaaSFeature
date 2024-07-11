@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = SaaSFeature.ExampleAPI
-build_property.ProjectDir = D:\MS Workspace\Libraries\SaaSFeature\SaaSFeature.ExampleAPI\
+build_property.ProjectDir = D:\Speehive\Workspace\General\MultitenancyFeature\SaaSFeature.ExampleAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

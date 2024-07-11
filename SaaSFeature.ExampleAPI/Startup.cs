@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using SaaSFeature.ExampleAPI.Infrastructure;
+using SaaSFeature.ExampleAPI.Infrastructure.Middlewares;
 using SaaSFeature.Infrastructure.Extensions;
 
 namespace SaaSFeature.ExampleAPI
@@ -37,7 +38,15 @@ namespace SaaSFeature.ExampleAPI
 
             services.AddSaaSFeature(Configuration);
 
-            services.AddSingleton<ITenantDbContextFactory, TenantDbContextFactory>();
+            //services.AddSingleton<ITenantDbContextFactory, TenantDbContextFactory>();
+            services.AddScoped<ITenantDbContextFactory, TenantDbContextFactory>();
+            services.AddScoped<StudentDbContextAccessor>();
+
+            services.AddScoped<StudentDbContext>(provider =>
+            {
+                var accessor = provider.GetRequiredService<StudentDbContextAccessor>();
+                return accessor.DbContext;
+            });
 
             services.AddSwaggerGen(c =>
             {
@@ -65,6 +74,8 @@ namespace SaaSFeature.ExampleAPI
             app.UseRouting();
 
             app.UseSaaSFeature();
+
+            app.UseMiddleware<AppTenantResolverMiddleware>();
 
             app.UseAuthorization();
 
