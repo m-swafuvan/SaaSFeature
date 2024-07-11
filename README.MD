@@ -1,4 +1,4 @@
-# ADDING SAAS FEATURE IN DOTNET CORE APPLICATION
+# ADDING SaaS FEATURE (Multitenancy) IN DOTNET CORE APPLICATION
 
 ## Introduction
 Welcome to the project repository! This project implements multitenancy to optimize resource usage, simplify maintenance, and enhance scalability. By consolidating hosting resources and enabling centralized monitoring and logging, we ensure efficient and secure management of multiple tenants. This repository contains the source code and documentation for the application, including high-level flow, benefits, challenges, and their mitigations.
@@ -31,3 +31,8 @@ While multitenancy introduces certain challenges, we have strategies in place to
 
 ## Conclusion
 By implementing multitenancy, we aim to optimize resource usage, simplify maintenance, enhance scalability, and ultimately deliver a more efficient and cost-effective application.
+
+## Possible Improvements
+- Bring more tenancy models, now we have Db per Tenant Model only.
+- Implement a FileSystem for Tenants.
+- Flexible Configuration based on the Tenant.
